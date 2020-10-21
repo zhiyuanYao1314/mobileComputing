@@ -20,6 +20,7 @@
         android:theme="@style/Theme.BlueBook" >
         <activity android:name="com.example.bluebook.ItemActivity" />
         <activity android:name="com.example.bluebook.AddPost" />
+        <activity android:name="com.example.bluebook.AddNew" />
         <activity android:name="com.example.bluebook.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

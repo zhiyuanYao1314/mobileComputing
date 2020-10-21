@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\ef65eb46079c4e4e8fdff66f1cfdf6a0\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -32,25 +32,27 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\73990\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\01339aeadc2379d14234ec1725fb1d1d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:3:5-35
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:4:5-35
 		INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:6:5-24:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\ef65eb46079c4e4e8fdff66f1cfdf6a0\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
@@ -62,39 +64,45 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\73
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\73990\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:7:9-40
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:8:9-40
 	android:allowBackup
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:11:9-46
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:12:9-46
 activity#com.example.bluebook.ItemActivity
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:12:9-59
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:13:9-59
 	android:name
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:13:19-47
 activity#com.example.bluebook.AddPost
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:13:9-45
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:14:9-45
 	android:name
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:13:19-42
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:14:19-42
+activity#com.example.bluebook.AddNew
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:15:9-16:45
+	tools:ignore
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:16:13-42
+	android:name
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:15:19-41
 activity#com.example.bluebook.MainActivity
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:17:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Downloads\FlappyBird-master\BlueBook\app\src\main\AndroidManifest.xml

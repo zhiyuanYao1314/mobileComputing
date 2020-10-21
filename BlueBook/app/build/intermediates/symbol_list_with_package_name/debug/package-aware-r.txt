@@ -1544,6 +1544,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_add_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
@@ -1676,6 +1677,7 @@ id bounce
 id button
 id buttonPanel
 id cache_measures
+id camera
 id cancel_button
 id center
 id center_horizontal
@@ -1841,6 +1843,7 @@ id peekHeight
 id percent
 id pin
 id position
+id post
 id postLayout
 id progress_circular
 id progress_horizontal
@@ -1906,6 +1909,7 @@ id staticPostLayout
 id stop
 id stretch
 id submenuarrow
+id submit
 id submit_area
 id tabMode
 id tag_accessibility_actions
@@ -2030,6 +2034,7 @@ layout abc_tooltip
 layout activity_add_post
 layout activity_item
 layout activity_main
+layout add_new
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

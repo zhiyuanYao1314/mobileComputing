@@ -1,13 +1,16 @@
 com/example/bluebook/RecyclerAdapter.java
  com.example.bluebook.RecyclerAdapter
  com.example.bluebook.RecyclerAdapter$MyViewHolder
-com/example/bluebook/MainActivity.java
- com.example.bluebook.MainActivity
- com.example.bluebook.MainActivity$1
+com/example/bluebook/BuildConfig.java
+ com.example.bluebook.BuildConfig
 com/example/bluebook/AddPost.java
  com.example.bluebook.AddPost
  com.example.bluebook.AddPost$1
 com/example/bluebook/ItemActivity.java
  com.example.bluebook.ItemActivity
-com/example/bluebook/BuildConfig.java
- com.example.bluebook.BuildConfig
+com/example/bluebook/MainActivity.java
+ com.example.bluebook.MainActivity
+ com.example.bluebook.MainActivity$1
+com/example/bluebook/AddNew.java
+ com.example.bluebook.AddNew
+ com.example.bluebook.AddNew$1
